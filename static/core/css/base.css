@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@600&family=Nunito&display=swap');
+
+/* Basket Menu */
+
+.basket-qty{
+    color: #fff;
+    background: #7a89ff;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 11px;
+    height: 17px;
+    width: 17px;
+    position: absolute;
+    box-sizing: content-box;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 1px;
+    right: 10px;
+}
+
+.basket-btn{
+    position: relative;
+    color: #5464F9;
+}
+
+.basket-btn:hover, .basket-btn:focus, .basket-btn:active, .basket-btn.active{
+    color:#143ed4;
+    transition-duration: 0.4s;
+    background-color: #fff;
+}
+
+
+
+.bgpink{
+    background: #FFDBDB;
+}
+
+
+.display-1,
+.display-2,
+.display-3 {
+  font-family: 'League Spartan', sans-serif;
+}
+p{
+  font-family: 'Nunito', sans-serif;
+  color: #5464F9;
+}
+.new,.h1,.display-1 {
+  font-family: 'League Spartan', sans-serif;
+  font-size: 7em;
+  color: #5464F9;
+}
+
+.dropdown-menu{
+background-color: #CCA0E5;
+color: white;
+border-radius: 0%;
+}
+
+.nav-item {
+
+
+  font-size: 1em;
+  line-height: 20px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: #5464F9;
+}
+
+.nav-link{
+  font-family: 'Nunito', sans-serif;
+  color: #5464F9!important;
+}
+
+.bgblack {
+  background: #FFDBDB;
+}
+
+.bghome2 {
+  background: #FFF2EF;
+  padding-top:30px;
+}
+
+#hp-section-1 {
+  background: #FFDBDB;
+}
+
+.navborder {
+  border-bottom: 1px solid #5464F9;
+}
+
+.p-s-1 {
+  color: #5464F9;
+}
+
+.cta-button{
+  width: 145px;
+  height: auto;
+  padding: 10px;
+}
+
+.btn-primary{
+  background:#CCA0E5;
+  color:white;
+  
+  gap: 6px;
+  border-radius: 0;
+  border:0;
+  margin-right:20px;
+  
+}
+
+.btn-secondary{
+  background:#CCA0E5;
+  color:white;
+  
+  gap: 6px;
+  border-radius: 0;
+  border:0;
+  margin-right:20px;
+  
+}
+
+.btn-outline-primary{
+  
+  gap: 6px;
+  border-radius: 0;
+  
+}
+.btn-outline-primary:hover {
+  background-color:#5464F9;
+  transition: 0.4s;
+}
+
+.dropdown-item{
+  color: white;
+}
